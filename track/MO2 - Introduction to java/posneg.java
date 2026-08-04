@@ -1,9 +1,7 @@
-import java.util.*;
 
 public class posneg {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int a = sc.nextInt();
+        int a = 25;
         if (a > 0) {
             System.out.print("Positive");
         } else if (a < 0) {
